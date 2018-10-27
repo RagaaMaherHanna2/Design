@@ -19,7 +19,7 @@
         <activity
             android:name=".ScrollingActivity"
             android:label="@string/user_info"
-            android:theme="@style/AppTheme.PopupOverlay"
+            android:theme="@style/AppTheme.AppBarOverlay"
             android:parentActivityName=".MainActivity" />
     </application>
 

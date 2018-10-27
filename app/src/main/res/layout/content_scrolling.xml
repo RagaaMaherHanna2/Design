@@ -98,6 +98,13 @@
 
         </LinearLayout>
 
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/darker_gray"
+            android:visibility="visible" />
         <LinearLayout
             android:id="@+id/scoendLL"
             android:layout_width="match_parent"
