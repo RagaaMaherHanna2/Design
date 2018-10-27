@@ -103,4 +103,5 @@
     <string name="notifications_and_sounds">Notifications and Sounds</string>
     <string name="privacy_and_security">Privacy and Security</string>
     <string name="data_and_storage">Data and Storage</string>
+    <string name="user_info">User Name</string>
 </resources>
